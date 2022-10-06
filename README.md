@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hola 🖐🏿. 
+    Hola 👋🏿👋🏿. 
     <br>
     I'm Testimony Adekoya. 
     <br>
