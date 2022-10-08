@@ -18,6 +18,11 @@
 <li>⚡ Fun fact: When I'm not coding, I'm sleeping.</li>
 </ul>
 </p>
+<h2 align= "center">Publications</h2>
+<p>
+    Some articles I have written include:
+    
+</p>
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
