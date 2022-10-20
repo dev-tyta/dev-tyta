@@ -20,7 +20,8 @@
 </p>
 <h2 align= "center">Publications</h2>
 <p>
-    Some articles I have written include:
+   <li> Worked on an article which aimed to analyze Netflix’s Dataset using Pandas, available here; (Analyzing Netflix's Dataset (2021))[https://github.com/dev-tyta/netflix_movie_analysis]</li>
+    <li>Published an article on progress made in my Data Science Journey in 2021; (My '21 Journey)[https://link.medium.com/ZpgSpEZHFnb]
     
 </p>
 
