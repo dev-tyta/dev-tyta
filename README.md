@@ -7,23 +7,24 @@
 </h2>
 
 <h3 align="center">Personal Info.</h3>
+
 <p>
-<ul>
-<li>🔭 I’m currently working on building my data science career. </li>
-<li>I'm looking forward to becoming a successful Machine Learning Engineer</li>
-<li>🌱 I’m currently learning more on Convolutional neural network, object detection, image segmentation, etc.</li>
-<li>👯 I’m looking to collaborate on Machine learning projects, computer vision projects, etc.</li>
-<li>📝 I write technical contents for personal development.</li>
-<li>😄 Pronouns: He/Him.</li>
-<li>⚡ Fun fact: When I'm not coding, I'm sleeping.</li>
-</ul>
-</p>
+    <ul>
+        <li>🔭 I’m currently working on building my data science career. </li>
+        <li>I'm looking forward to becoming a successful Machine Learning Engineer</li>
+        <li>🌱 I’m currently learning more on Convolutional neural network, object detection, image segmentation, etc.</li>
+        <li>👯 I’m looking to collaborate on Machine learning projects, computer vision projects, etc.</li>
+        <li>📝 I write technical contents for personal development.</li>
+        <li>😄 Pronouns: He/Him.</li>
+        <li>⚡ Fun fact: When I'm not coding, I'm sleeping.</li> 
+    </ul>
+
 <h2 align= "center">Publications</h2>
 <p>
    <li> Worked on an article which aimed to analyze Netflix’s Dataset using Pandas, available here; (Analyzing Netflix's Dataset (2021))[https://github.com/dev-tyta/netflix_movie_analysis]</li>
     <li>Published an article on progress made in my Data Science Journey in 2021; (My '21 Journey)[https://link.medium.com/ZpgSpEZHFnb]
-    
-</p>
+   </li> 
+
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
