@@ -25,7 +25,7 @@
     </li>
     <li> I published an article on progress made in my Data Science Journey in 2021; <a href="https://link.medium.com/ZpgSpEZHFnb]">My '21 Journey</a>
    </li> 
-    <li> Published an article on the <a href="">Roles and Responsibilities of a Machine Learning Engineer.</a> 
+    <li> Published an article on some of the responsibilities of a machine learning engineer; <a href="https://writingtestys.hashnode.dev/roles-and-responsibilities-of-a-machine-learning-engineer">Roles and Responsibilities of a Machine Learning Engineer.</a> 
 
 
 <h2 align="center"><u>My Github Stats</u></h2>
