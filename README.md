@@ -23,7 +23,7 @@
 <p>
    <li> I published an article which aimed to analyze Netflix’s Dataset using Pandas, available here; <a href="https://medium.com/@dev_tyta./analyzing-netflix-datasets-9f42a8880590">Analyzing Netflix's Dataset (2021)</a>
     </li>
-    <li> I published an article on progress made in my Data Science Journey in 2021; <a href="https://link.medium.com/ZpgSpEZHFnb]">My '21 Journey</a>
+    <li> I published an article on progress made in my Data Science Journey in 2021; <a href="https://link.medium.com/ZpgSpEZHFnb">My '21 Journey</a>
    </li> 
     <li> Published an article on some of the responsibilities of a machine learning engineer; <a href="https://writingtestys.hashnode.dev/roles-and-responsibilities-of-a-machine-learning-engineer">Roles and Responsibilities of a Machine Learning Engineer.</a> 
 
