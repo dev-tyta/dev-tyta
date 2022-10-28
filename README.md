@@ -21,7 +21,7 @@
 
 <h2 align= "center">Publications</h2>
 <p>
-   <li> I published an article which aimed to analyze Netflix’s Dataset using Pandas, available here; <a href="https://github.com/dev-tyta/netflix_movie_analysis">Analyzing Netflix's Dataset (2021)</a>
+   <li> I published an article which aimed to analyze Netflix’s Dataset using Pandas, available here; <a href="https://medium.com/@dev_tyta./analyzing-netflix-datasets-9f42a8880590">Analyzing Netflix's Dataset (2021)</a>
     </li>
     <li> I published an article on progress made in my Data Science Journey in 2021; <a href="https://link.medium.com/ZpgSpEZHFnb]">My '21 Journey</a>
    </li> 
