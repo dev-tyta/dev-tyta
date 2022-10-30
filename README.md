@@ -18,6 +18,7 @@
         <li>😄 Pronouns: He/Him.</li>
         <li>⚡ Fun fact: When I'm not coding, I'm sleeping.</li> 
     </ul>
+<h2 align="center">Projects</h2>
 
 <h2 align= "center">Publications</h2>
 <p>
