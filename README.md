@@ -17,6 +17,7 @@
         <li>📝 I write technical contents for personal development.</li>
         <li>😄 Pronouns: He/Him.</li>
         <li>⚡ Fun fact: When I'm not coding, I'm sleeping.</li> 
+        <li>📫 How to reach me: <a href= "https://www.twitter.com/dev-tyta">@dev-tyta</a> </li>
     </ul>
 <h2 align="center">Projects</h2>
 
@@ -36,7 +37,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-tyta&show_icons=true&include_all_commits=true&hide_border=true" alt="Testimony Adekoya's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tyta&langs_count=8&layout=compact&hide=php&hide_border=true" alt="Testimony Adekoya's GitHub stats" /> |
 | ------------- | ------------- |
 |<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-tyta&theme=dracula"> | <img align="center" src="https://github-profile-trophy.vercel.app/?username=dev-tyta&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
-   
+
 <!--
 
 **dev-tyta/dev-tyta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
