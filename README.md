@@ -30,12 +30,15 @@
 
 
 <h2 align="center"><u>My Github Stats</u></h2>
-|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tyta&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10"> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-tyta&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C&theme=graywhite">	| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-tyta&theme=dracula"> | <img src="https://metrics.lecoq.io/dev-tyta?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"> | <img src="https://github-profile-trophy.vercel.app/?username=dev-tyta&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
- | ------------- | ------------- |
+     
+---
+        
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-tyta&show_icons=true&include_all_commits=true&hide_border=true" alt="Testimony Adekoya's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tyta&langs_count=8&layout=compact&hide=php&hide_border=true" alt="Testimony Adekoya's GitHub stats" /> |
+| ------------- | ------------- |
+|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-tyta&theme=dracula"> | <img align="center" src="https://github-profile-trophy.vercel.app/?username=dev-tyta&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+   
 <!--
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide=php&hide_border=true" alt="Bolaji's GitHub stats" /> |
-| ------------- | ------------- |
 **dev-tyta/dev-tyta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
