@@ -17,26 +17,29 @@
         <li>📝 I write technical contents for personal development.</li>
         <li>😄 Pronouns: He/Him.</li>
         <li>⚡ Fun fact: When I'm not coding, I'm sleeping.</li> 
+        <li>📫 How to reach me: <a href= "https://www.twitter.com/dev-tyta">@dev-tyta</a> </li>
     </ul>
+<h2 align="center">Projects</h2>
 
 <h2 align= "center">Publications</h2>
 <p>
-   <li> I published an article which aimed to analyze Netflix’s Dataset using Pandas, available here; <a href="https://github.com/dev-tyta/netflix_movie_analysis">Analyzing Netflix's Dataset (2021)</a>
+   <li> I published an article which aimed to analyze Netflix’s Dataset using Pandas, available here; <a href="https://medium.com/@dev_tyta./analyzing-netflix-datasets-9f42a8880590">Analyzing Netflix's Dataset (2021)</a>
     </li>
-    <li> I published an article on progress made in my Data Science Journey in 2021; <a href="https://link.medium.com/ZpgSpEZHFnb]">My '21 Journey</a>
+    <li> I published an article on progress made in my Data Science Journey in 2021; <a href="https://link.medium.com/ZpgSpEZHFnb">My '21 Journey</a>
    </li> 
-    <li> Published an article on the <a href="">Roles and Responsibilities of a Machine Learning Engineer.</a> 
+    <li> Published an article on some of the responsibilities of a machine learning engineer; <a href="https://writingtestys.hashnode.dev/roles-and-responsibilities-of-a-machine-learning-engineer">Roles and Responsibilities of a Machine Learning Engineer.</a> 
 
 
 <h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tyta&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-tyta&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-tyta&theme=dracula">
-    <img src="https://metrics.lecoq.io/dev-tyta?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	
-    <img src="https://github-profile-trophy.vercel.app/?username=dev-tyta&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
-</p>
+     
+---
+        
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-tyta&show_icons=true&include_all_commits=true&hide_border=true" alt="Testimony Adekoya's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tyta&langs_count=8&layout=compact&hide=php&hide_border=true" alt="Testimony Adekoya's GitHub stats" /> |
+| ------------- | ------------- |
+|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-tyta&theme=dracula"> | <img align="center" src="https://github-profile-trophy.vercel.app/?username=dev-tyta&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+
 <!--
+
 **dev-tyta/dev-tyta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
