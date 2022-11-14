@@ -11,7 +11,9 @@
 <p>
     <ul>
         <li>🔭 I’m currently working on building my data science career. </li>
-        <li>🔖 I'm looking forward to becoming a successful Machine Learning Engineer</li>
+        <li>🔖 I'm looking forward to becoming a successful 
+  
+ Learning Engineer</li>
         <li>🌱 I’m currently learning more on Convolutional neural network, object detection, image segmentation, etc.</li>
         <li>👯 I’m looking to collaborate on Machine learning projects, computer vision projects, etc.</li>
         <li>📝 I write technical contents for personal development.</li>
@@ -20,6 +22,7 @@
         <li>📫 How to reach me: <a href= "https://www.twitter.com/dev-tyta">@dev-tyta</a> </li>
     </ul>
 <h2 align="center">Projects</h2>
+I worked and collaboraed in the fiowu v] it
 
 <h2 align= "center">Publications</h2>
 <p>
@@ -27,7 +30,7 @@
     </li>
     <li> I published an article on progress made in my Data Science Journey in 2021; <a href="https://link.medium.com/ZpgSpEZHFnb">My '21 Journey</a>
    </li> 
-    <li> Published an article on some of the responsibilities of a machine learning engineer; <a href="https://writingtestys.hashnode.dev/roles-and-responsibilities-of-a-machine-learning-engineer">Roles and Responsibilities of a Machine Learning Engineer.</a> 
+    <li> Published an article on some of the responsibilities of a machine learning engineer; <a href="https⁶://writingtestys.hashnode.dev/roles-and-responsibilities-of-a-machine-learning-engineer">Roles and Responsibilities of a Machine Learning Engineer.</a> 
 
 
 <h2 align="center"><u>My Github Stats</u></h2>
