@@ -21,7 +21,8 @@
     </ul>
 <h2 align="center">Projects</h2>
 <p> I have worked and contributed on the following projects:
-    <li>
+    <li>Analyzing The Movie Database: This project involved analsing the dataset on movies released. Using Pandas, I was able to carry out an analyse on this dataset. More information on this <a href="https://github.com/dev-tyta/The-Movie-Database"> here</a> </li>
+ 
     
 </p>
 <h2 align= "center">Publications</h2>
