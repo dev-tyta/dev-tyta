@@ -22,6 +22,7 @@
 <h2 align="center">Projects</h2>
 <p> I have worked and contributed on the following projects:
     <li>Analyzing The Movie Database: This project involved analsing the dataset on movies released. Using Pandas, I was able to carry out an analyse on this dataset. More information on this <a href="https://github.com/dev-tyta/The-Movie-Database"> here</a> </li>
+    <li> LoanMe: LoanMe is an app that predicts the eligibility status of a customer based on a machine learning algorithm with about 90% accuracy. I worked on the machine learning model used in predicting the accuracy of the customer. I also worked on the backend engineering of this website using Flask. This project is still in progress. Check it out <a href="">here</a>
  
     
 </p>
