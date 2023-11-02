@@ -21,13 +21,13 @@
 - 📝 **Content Creation**: Pen down technical articles for self-growth
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: If I'm not coding, you'll find me in the dreamland!
-- 🌐 **Connect with me**: [@dev-tyta](https://www.twitter.com/dev-tyta)
+- 🌐 **Connect with me**: [@tee-tyta](https://www.twitter.com/tee-tyta)
 
 ---
 
 <h4>🚀 Projects:</h4>
 
-1. **Analyzing The Movie Database**: A deep dive into movies dataset with the power of Pandas. Dive in [here](https://github.com/dev-tyta/The-Movie-Database).
+1. **Analyzing The Movie Database**: A deep dive into movie datasets with the power of Pandas. Dive in [here](https://github.com/dev-tyta/The-Movie-Database).
 2. **LoanMe**: A work-in-progress application that predicts customer eligibility using ML, boasting 90% accuracy! Also, delved into its backend with Flask. Peek [here](#) (Link to be updated).
 
 ---
