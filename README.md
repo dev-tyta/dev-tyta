@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://placehold.it/100/ffa500/000000?text=TA" alt="Your Logo (You can add a personal logo)">
+  <img src="https://placehold.it/100/00008b/000000?text=TA" alt="GitHub Logo">
 </p>
 
 <h2 align="center">
