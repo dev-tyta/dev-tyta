@@ -27,8 +27,9 @@
 
 <h4>🚀 Projects:</h4>
 
-1. **Analyzing The Movie Database**: A deep dive into movie datasets with the power of Pandas. Dive in [here](https://github.com/dev-tyta/The-Movie-Database).
-2. **LoanMe**: A work-in-progress application that predicts customer eligibility using ML, boasting 90% accuracy! Also, delved into its backend with Flask. Peek [here](#) (Link to be updated).
+1.**HumanCount**: An API which works towards detecting and counting humans in an image or video. The project can be used in different real-time applications. Check it out [here](https://github.com/dev-tyta/HumanCount)
+2. **Analyzing The Movie Database**: A deep dive into movie datasets with the power of Pandas. Dive in [here](https://github.com/dev-tyta/The-Movie-Database).
+3. **LoanMe**: A work-in-progress application that predicts customer eligibility using ML, boasting 90% accuracy! Also, delved into its backend with Flask. Peek [here](https://github.com/dev-tyta/LoanMe).
 
 ---
 
