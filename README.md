@@ -1,18 +1,12 @@
 <p align="center">
-  <img src="https://placehold.it/100/00008b/000000?text=TA" alt="GitHub Logo">
+  <h1 align="center">Welcome to <a href="https://github.com/dev-tyta">Dev-tyta</a>'s Profile 👋</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Machine+Learning+Engineer;I'm+a+Embedded+Systems+Engineer;I'm+a+Python+developer" /></a>
 </p>
 
-<h2 align="center">
-    Hello World! 👋🏿
-</h2>
-
-<h3 align="center">
-    I'm Testimony Adekoya<br>Welcome to My GitHub Page!
-</h3>
-
----
-
 <h4>🧑🏾‍💼 About Me:</h4>
+<img align="right" src="https://media.giphy.com/media/UIN7Andwh7kDZGUvmt/giphy.gif">
 
 - 🔭 **Profession**: ML Engineer
 - 🎯 **Long Term Goals**: Machine Learning Research Engineer with an Embedded Systems Engineering Background
