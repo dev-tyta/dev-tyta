@@ -19,17 +19,6 @@
 
 ---
 
-<h4>🚀 Projects:</h4>
-
-- HumanCount: Advanced Crowd Monitoring with Wellness Detection
-  - Technologies: Faster-RCNN, YOLO, PyTorch, FastAPI, TensorFlow, OpenCV
-  - Enhancements: Developed a dual-purpose system integrating crowd density analysis with emotional and physical wellness detection, utilizing advanced computer vision and AI algorithms for real-time insights.
-
-- MaizeFolioID: Precision Agriculture for Maize Health
-  - Technologies: InceptionNet, VGGNet, Streamlit, HuggingFace Hub, TensorFlow, Docker
-  - Enhancements: Engineered a robust image recognition application tailored for detecting foliar diseases in maize, incorporating deep learning models for accuracy and Streamlit for user-friendly access.
----
-
 <h4>📊 My GitHub Prowess:</h4>
 
 <a href="https://gitroll.io/profile/uarVz9euocRXBpj8sODQ0P4BSKNS2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uarVz9euocRXBpj8sODQ0P4BSKNS2" alt="GitRoll Profile Badge"/></a>
