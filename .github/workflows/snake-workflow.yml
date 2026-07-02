@@ -1,0 +1,43 @@
+# Contribution Snake — one-time setup
+#
+# 1. In your profile repo (github.com/dev-tyta/dev-tyta), create the file
+#    .github/workflows/snake.yml and paste this content in.
+# 2. Commit it to the `main` branch.
+# 3. Go to the "Actions" tab, select "Generate Snake Animation", and click
+#    "Run workflow" once to trigger it manually the first time.
+# 4. It will then run automatically every 12 hours, committing the updated
+#    SVGs to an `output` branch — which is exactly what the README's
+#    <picture> tag points to, so no further changes are needed there.
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: dev-tyta
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
