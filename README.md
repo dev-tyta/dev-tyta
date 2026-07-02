@@ -1,39 +1,99 @@
-<h1 align="center">Hi 👋, I'm Testimony Adekoya</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-tyta&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tyta" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-tyta" alt="dev-tyta" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Testimony%20Adekoya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20ML%20Engineer%20%7C%20Computer%20Vision%20%26%20Multimodal%20AI&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
-- 🔭 I’m currently working on [Explainable Multimodal Imaging for Breast Cancer Diagnosis Using Mammography and Ultrasonography Datasets](https://github.com/dev-tyta/MMIBC)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Applied+ML+Engineer;Computer+Vision+%26+Multimodal+AI;Building+Production+AI+Systems;ICML+2026+Oral+Presenter+%F0%9F%8E%89" alt="Typing SVG" />
 
-- 👯 I’m looking to collaborate on **Computer Vision and Multimodal Machine Learning Projects**
+<br/>
 
-- 🤝 I’m looking for help with **Multimodal Imaging as regards use in Healthcare Sectors**
+[![Twitter](https://img.shields.io/badge/-_testys_-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_testys_)
+[![LinkedIn](https://img.shields.io/badge/-testimony--adekoya-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/testimony-adekoya)
+[![Kaggle](https://img.shields.io/badge/-testimonyadekoya-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/testimonyadekoya)
+[![Medium](https://img.shields.io/badge/-@writingtestys-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@writingtestys)
+[![Gmail](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:testimonyadekoya.02@gmail.com)
 
-- 📝 I regularly write articles on [https://medium.com/@writingtestys](https://medium.com/@writingtestys)
+<img src="https://komarev.com/ghpvc/?username=dev-tyta&label=Profile%20Views&color=7F5AF0&style=for-the-badge" alt="profile views"/>
 
-- 💬 Ask me about **Python and ML**
+</div>
 
-- 📫 How to reach me **testimonyadekoya.02@gmail.com**
+<br/>
 
-- ⚡ Fun fact **If I'm not coding, you'll find me in the dreamland!**
+## 🧭 About Me
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🔬 Currently researching **explainable multimodal imaging for breast cancer diagnosis**, combining mammography and ultrasonography data — [`MMIBC`](https://github.com/dev-tyta/MMIBC)
+- 🧵 Co-author of **AfriVTON-Bench**, a benchmark for virtual try-on models on African garments, accepted for **oral presentation at the WiML Workshop, ICML 2026**
+- 🏗️ Building applied AI systems in production — agentic pipelines, RAG-based platforms, and optimization/resource-matching engines
+- 👯 Open to collaborating on **computer vision and multimodal machine learning**, particularly in healthcare
+- ✍️ Writing about ML, computer vision, and applied AI at [medium.com/@writingtestys](https://medium.com/@writingtestys)
+- 💬 Ask me about **Python, PyTorch, and shipping ML into production**
+- ⚡ Fun fact: most of my best debugging happens in my sleep — the rest happens at 2am on purpose
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_testys_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_testys_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/testimony-adekoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="testimony-adekoya" height="30" width="40" /></a>
-<a href="https://kaggle.com/testimonyadekoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="testimonyadekoya" height="30" width="40" /></a>
-<a href="https://medium.com/@writingtestys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@writingtestys" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=3&section=header" width="100%"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-tyta&show_icons=true&locale=en&layout=compact" alt="dev-tyta" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-tyta&show_icons=true&locale=en" alt="dev-tyta" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-tyta&" alt="dev-tyta" /></p>
+**Languages & ML/DL**
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,r,matlab,latex&theme=dark" />
+
+**Infra, Tools & Data**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,redis,mysql,flask,fastapi,git,linux,postman&theme=dark" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=3&section=header" width="100%"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dev-tyta&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tyta&layout=compact&theme=dracula&hide_border=true" width="34%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-tyta&theme=dracula&hide_border=true" width="60%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dev-tyta&theme=dracula&no-frame=true&row=1&column=7" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--
+This section needs a one-time setup — see snake-workflow.yml in the same
+folder as this README. Once the GitHub Action runs once, this image will
+render your contribution graph as an animated snake.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-tyta/dev-tyta/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-tyta/dev-tyta/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/dev-tyta/dev-tyta/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+<i>Made with ☕ and a healthy respect for edge cases.</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=150&section=footer&animation=fadeIn" width="100%"/>
