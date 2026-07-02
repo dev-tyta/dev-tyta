@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Testimony%20Adekoya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20ML%20Engineer%20%7C%20Computer%20Vision%20%26%20Multimodal%20AI&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Applied+ML+Engineer;Computer+Vision+%26+Multimodal+AI;Building+Production+AI+Systems;ICML+2026+Oral+Presenter+%F0%9F%8E%89" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Applied+ML+Engineer;Computer+Vision+%26+Multimodal+AI;Building+Production+AI+Systems;%F0%9F%8E%89" alt="Typing SVG" />
 
 <br/>
 
