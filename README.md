@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Testimony%20Adekoya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20ML%20Engineer%20%7C%20Computer%20Vision%20%26%20Multimodal%20AI&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Testimony%20Adekoya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20ML%20Engineer%20-%20Computer%20Vision%20and%20Multimodal%20AI&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Applied+ML+Engineer;Computer+Vision+%26+Multimodal+AI;Building+Production+AI+Systems;%F0%9F%8E%89" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Applied+ML+Engineer;Computer+Vision+%26+Multimodal+AI;Building+Production+AI+Systems%F0%9F%8E%89" alt="Typing SVG" />
 
 <br/>
 
@@ -11,6 +11,7 @@
 [![Kaggle](https://img.shields.io/badge/-testimonyadekoya-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/testimonyadekoya)
 [![Medium](https://img.shields.io/badge/-@writingtestys-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@writingtestys)
 [![Gmail](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:testimonyadekoya.02@gmail.com)
+[![Website](https://img.shields.io/badge/-dev--tyta.github.io-2CB67D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev-tyta.github.io)
 
 <img src="https://komarev.com/ghpvc/?username=dev-tyta&label=Profile%20Views&color=7F5AF0&style=for-the-badge" alt="profile views"/>
 
@@ -54,10 +55,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-tyta&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tyta&layout=compact&theme=dracula&hide_border=true" width="34%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dev-tyta&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tyta&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" width="34%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-tyta&theme=dracula&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=dev-tyta&theme=dracula&hide_border=true" width="60%"/>
 
 </div>
 
